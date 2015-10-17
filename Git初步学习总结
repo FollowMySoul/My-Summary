@@ -1,0 +1,9 @@
+1.主要功能：存放代码、修改代码、合入代码；
+2.主要操作：
+  新建一个repository用来存放一个工程；
+  可以新建一个issue，用来标识一些注意事项；
+  新建一个branch，来复制master，并可以独立的修改branch中的文件；
+  在branch下，可以对文件进行修改，用新建commits的形式进行；
+  可以向master提出一个pull request，申请将branch中的改动合入主线中；
+  在主线中，可以marge pull request，将改动合入主线，并可以删除branch；
+3.可以在本地PC的终端上，通过命令行来进行上述操作。
